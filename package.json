@@ -1,0 +1,15 @@
+{
+  "name": "@anvartdinovtimurlinux/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anvartdinovtimurlinux/ajs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anvartdinov Timur",
+  "license": "ISC"
+}
